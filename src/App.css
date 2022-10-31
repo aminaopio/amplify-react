@@ -14,14 +14,14 @@
 }
 
 .App-header {
-  background-color: #ffbbf1;
+  background-color: #f9d6a7;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(11, 11, 46);
 }
 
 .App-link {
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.imageText{
+  font-family: Inter;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  width: 30vw;
+  font-size: 45px;
+
 }

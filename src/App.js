@@ -1,4 +1,4 @@
-import gio from './gio.png'
+import gio from './gio2.jpg'
 import './App.css';
 
 function App() {
